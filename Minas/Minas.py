@@ -68,7 +68,7 @@ class Default: #Criada para deixar valores padrões.
     n=8
     aux=window[0]-window[1] #delta x: área de score |x x x|s|
     Game_area=[window[0]-aux,window[1]]
-    title="Minas"
+    title="Minas @HenrickyL"
     Img_bomb = pg.image.load("bomb.png")
     
     Img_exp = pg.image.load("expl.png")
