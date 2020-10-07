@@ -9,7 +9,7 @@
 
 Criado em 2019.1
 
-##Principais Problemas:
+## Principais Problemas:
 
 ### Matemático:
 - gerar uma tabela(matriz) com as bombas em posições aleaórias e os número que representam as bombas a sua volta.
